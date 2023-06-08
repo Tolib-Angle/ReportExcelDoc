@@ -56,3 +56,5 @@ Example of a generated report using the program: [Отчет.xlsx](https://githu
 The contents of the [Отчет.xlsx](https://github.com/Tolib-Angle/ReportExcelDoc/blob/main/Отчет.xlsx) have been generated and are random. Any coincidence is just a coincidence, also the report could be generated incorrectly due to the randomness of the data (the links could be repeated or contradict each other).
 
 The report was compiled on a database containing 500 records in each table
+
+If you have any additional questions, write to the author: [Tolib](https://github.com/Tolib-Angle)
