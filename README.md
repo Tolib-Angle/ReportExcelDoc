@@ -6,6 +6,8 @@ Necessary packages to run the program: EPPlus 6.2.4 + , RecyclableMemoryStream.1
 
 The starting point of the programm: [Program.cs](https://github.com/Tolib-Angle/ReportExcelDoc/blob/main/Program.cs)
 
+--------------------------------------
+
 #Task
 
 Для реализации необходимо использовать C# (любой удобный фрэйм) и SQL (MS SQL, SQL Lite). БД должна быть с набитыми данными для полной проверки.
