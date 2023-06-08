@@ -8,11 +8,6 @@ The starting point of the programm: [Program.cs](https://github.com/Tolib-Angle/
 
 --------------------------------------
 
-| Izdel |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 # Task
 
 Для реализации необходимо использовать C# (любой удобный фрэйм) и SQL (MS SQL, SQL Lite). БД должна быть с набитыми данными для полной проверки.
@@ -21,13 +16,11 @@ The starting point of the programm: [Program.cs](https://github.com/Tolib-Angle/
 
 Izdel
 
-| Id  | Second Header |
-| Name  | Content Cell  |
-| Price  | Content Cell  |
-
+|-------|---------------|---------------------------------------|
 | Id	| bigint	    | Уникальный идентификатор (Primary Key)|
 | Name	| varchar(100)	| Наименование изделия                  |
 | Price	| Decimal(20,2)	| Цена покупки/сборки изделия           |
+|-------|---------------|---------------------------------------|
 
 Links
 
