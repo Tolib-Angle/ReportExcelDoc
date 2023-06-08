@@ -8,7 +8,7 @@ The starting point of the programm: [Program.cs](https://github.com/Tolib-Angle/
 
 --------------------------------------
 
-| First Header  | Second Header |
+| Izdel |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
