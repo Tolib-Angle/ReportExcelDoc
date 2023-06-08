@@ -21,6 +21,10 @@ The starting point of the programm: [Program.cs](https://github.com/Tolib-Angle/
 
 Izdel
 
+| Id  | Second Header |
+| Name  | Content Cell  |
+| Price  | Content Cell  |
+
 | Id	| bigint	    | Уникальный идентификатор (Primary Key)|
 | Name	| varchar(100)	| Наименование изделия                  |
 | Price	| Decimal(20,2)	| Цена покупки/сборки изделия           |
